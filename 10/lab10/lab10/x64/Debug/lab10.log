@@ -1,0 +1,3 @@
+﻿  lab10.cpp
+D:\лабы\ОАиП\10\lab10\lab10\lab10.cpp(81): warning C4715: pol: значение возвращается не при всех путях выполнения
+  lab10.vcxproj -> D:\лабы\ОАиП\10\lab10\x64\Debug\lab10.exe
