@@ -1,0 +1,3 @@
+﻿  lab5.cpp
+D:\лабы\ОАиП\5\lab5\lab5\lab5.cpp(83,10): warning C4101: n: неиспользованная локальная переменная
+  lab5.vcxproj -> D:\лабы\ОАиП\5\lab5\x64\Debug\lab5.exe

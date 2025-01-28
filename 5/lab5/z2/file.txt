@@ -1,0 +1,4 @@
+ФИО: rauba arseniy vladimirovich
+Предметы: fizika
+Отметки: 4 5 6
+Средний балл: 5
