@@ -1,0 +1,3 @@
+﻿  zadanie2.cpp
+D:\лабы\ОАиП\1\lab01\zadanie2\zadanie2.cpp(13,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  zadanie2.vcxproj -> D:\лабы\ОАиП\1\lab01\x64\Debug\zadanie2.exe
